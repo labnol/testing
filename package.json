@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "@google/clasp": "^2.3.0",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "copy-webpack-plugin": "^8.1.0",
+    "eslint-webpack-plugin": "^2.5.2",
+    "gas-webpack-plugin": "^2.0.0",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
